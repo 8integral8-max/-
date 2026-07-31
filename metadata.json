@@ -1,0 +1,6 @@
+{
+  "name": "NEIS 과목별 세부능력 및 특기사항 생성 시스템",
+  "description": "고등학교 수학과 교사용 나이스(NEIS) 과목별 세부능력 및 특기사항 AI 자동 생성 및 검토 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
